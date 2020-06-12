@@ -6,5 +6,6 @@
   "description": "You package description",
   "keywords": ["Script","Tool"],
   "category": "Script",
-  "dependencies":{}
+  "dependencies":{
+  "be.eloistree.magicdoorsroompattern":"0.0.1"}
 }
